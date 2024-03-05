@@ -1,16 +1,16 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Ed-Tech</b></a>
+<h1>Ed-Tech</h1>
+<h2>Project Title:</h2><b><a href="https://storage78900.z13.web.core.windows.net/">Ed-Tech</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://github.com/saifali7902/Ed-tech <br>
+<b>Project Demo URL :</b> https://storage78900.z13.web.core.windows.net/ <br>
 <b>Demo Video URL :</b> https://youtu.be/WfRvxZbRnJs <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
+<b>Github Repository URL :</b> https://github.com/saifali7902/Ed-tech <br>
 <b>Industry :</b> Ed-tech<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
-1. Blob storage <br>
-2. Key vault <br> <br>
+1. Azure Blob storage <br>
+2. Storage accounts <br> <br>
 Azure AI Service <br>
 1. Azure AI Bot Service
 </h3>
@@ -29,20 +29,6 @@ Azure AI Service <br>
 <b>Azure AI Bot Service :</b><br><br><p align="justify">Azure AI Bot Service is a part of Microsoft Azure's cloud services that allows developers to build, deploy, and manage intelligent bots for various platforms such as websites, applications, Microsoft Teams, and more. The service provides a set of tools and resources to facilitate the development of conversational AI applications.</p>
 
 <h2>Screenshots</h2>
-<h3>Azure App Service</h3>
-<b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
-<h3>Azure Databse for MySQL</h3>
-<b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
-<h3>Working Live Project Display</h3>
-<b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
 
-<h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
 
 
