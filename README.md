@@ -2,11 +2,11 @@
 An Ed-tech is a platform that allows users to access digital learning content and delivers topics in an easiest way to understand.
 
 ## Roles/Responsibilities
-1.V.Ganesh Kumar-Frontend and AI Services Deployment
+V.Ganesh Kumar-Frontend and AI Services Deployment
 
-2.S.Saifali-Frontend development,Content Collection,Debugging
+S.Saifali-Frontend development,Content Collection,Debugging
 
-3. Ch Nikhitha-Azure AI Services
+Ch Nikhitha-Azure AI Services
 
 ## Project Details
 1. Project Demo URL : https://storage78900.z13.web.core.windows.net/
