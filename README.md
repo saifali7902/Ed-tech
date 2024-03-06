@@ -1,74 +1,104 @@
-<h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Roles and Responsibilities of our team members:</h2>
-<br>Saifali : Development and Deployment </br>
-<br>Amulya :AI service</br>
-<br>Sangeetha :Content Collection</br>
-<h2>Project Details</h2>
-<b>Project Demo URL :</b> https://neogym987.z13.web.core.windows.net/ <br>
-<b>Demo Video URL :</b>
-https://youtu.be/F57ICiCDwfY  <br>
-<b>Github Repository URL :</b> https://github.com/Saifali1703/Neogym-project <br>
-<b>Industry :</b> Lifestyle <br>
-<h2>Azure Services Used</h2>
-<h3>
-Core Azure Services : <br>
-1. Azure Blob storage <br>
-2. Azure key vault <br> <br>
-Azure AI Service <br>
-1. Azure AI Bot Service
-</h3>
-<h1>Neogym - project</h1> 
-Welcome to our premier gym's official website, where fitness meets innovation and community thrives. At our state-of-the-art facility, we are committed to providing a transformative fitness experience that caters to individuals of all levels and aspirations. Explore our cutting-edge equipment, meticulously designed workout spaces, and a range of invigorating classes led by expert trainers. Whether you're a seasoned fitness enthusiast or just starting your wellness journey, our website is your gateway to a wealth of resources, including personalized workout plans, nutritional guidance, and motivational content. Join our vibrant online community, where members share success stories, tips, and support, fostering a sense of camaraderie that extends beyond the gym floor. Discover the power of a healthier, happier you by navigating through our user-friendly website, designed to inspire and empower you on your path to fitness excellence. Welcome to a place where every workout is a step toward a stronger, more vibrant version of yourself.
-<h2>Project Description</h2>
-<p align="justify">Neogym is an innovative gym management system designed to streamline and enhance the overall fitness center experience for both gym owners and members. This comprehensive solution leverages cutting-edge technology to provide a seamless and efficient platform for managing various aspects of gym operations. Whether you're a fitness enthusiast looking for a personalized workout experience or a gym owner aiming to optimize business processes, Neogym has you covered.</p><br>
-<b>Key Features :</b>
-<ul>
-    <li>Member Management</li>
-    <li>Personalized Workouts</li>
-    <li>Billing and Payments</li>
-    <li>Equipment Management</li>
-    <li>Integration with Wearables</li>
-</ul>
+# Ed-tech
+A platform to know Online shopping is a form of electronic commerce which allows consumers to directly buy goods or services from a seller over the Internet using a website
 
-<h2>Core Azure Services</h2>
-<b>Azure Blob storage :</b><br><p align="justify"><br>Azure Blob Storage is an object storage service that allows you to store and manage unstructured data, such as documents, images, videos, and other large binary or text data.</p>
-<b>Azure Keyvault :</b><br><p align="justify">Azure Key Vault is a cloud service offered by Microsoft Azure that allows you to securely store and manage sensitive information such as secrets, encryption keys, and certificates. It provides a centralized and secure repository for managing and controlling access to keys and secrets used by cloud applications and services</p>
-<h2>Azure AI Bot Service</h2>
-<b>Azure AI Bot service :</b><br><br><p align="justify">Microsoft Azure provides a service known as Azure Bot Service, which allows developers to build, deploy, and manage intelligent bots that can interact with users across various channels. It's a part of the broader Azure AI services and Cognitive Services. </p>
-<h1>Step's I Followed For My Project:</h1>
+## Roles/Responsibilities
+1.V.Ganesh Kumar-Frontend and AI Services Deployment
 
-LOGIN TO AZURE PORTAL :![Screenshot (357)](https://github.com/Saifali1703/Neogym-project/assets/150070786/6665a08f-913e-41d7-80d7-f681eae84218)
-CREATE AZURE STORAGE ACCOUNT : ![Screenshot (358)](https://github.com/Saifali1703/Neogym-project/assets/150070786/217e728e-b072-4c72-a1fc-2936a1d6ed77)
-CREATE STATIC WEBSITE IN STORAGE ACCOUNT :![Screenshot (330)](https://github.com/Saifali1703/Neogym-project/assets/150070786/4354f13c-b7c6-4c68-8648-7225bef75a5b)
-UPLOAD ALL PROJECT FILES IN STATIC WEB CONTAINERS :![Screenshot (331)](https://github.com/Saifali1703/Neogym-project/assets/150070786/18ab53ba-b4cd-4440-a0cd-0e99043ee9c2)
-GO TO DATA PROTECTION AND CREATE BACKUP VAULT AND POLICY AND ASSIGN ROLES :![Screenshot (332)](https://github.com/Saifali1703/Neogym-project/assets/150070786/2524b6bc-e9b5-4f48-a651-6d77ebf8fd31)
-![Screenshot (333)](https://github.com/Saifali1703/Neogym-project/assets/150070786/b599e96f-4ee5-4709-a1b6-bea163e14e78)
-NOW GO TO LANGUAGE BY SEARCHING IN AZURE PORTAL :![Screenshot (334)](https://github.com/Saifali1703/Neogym-project/assets/150070786/132477f7-0fbe-4edc-8bb4-87db935b1b15)
-CREATE YOUR RESOURCE BY SELECTING CUSTOM QUESTION AND ANSWERING : ![Screenshot (335)](https://github.com/Saifali1703/Neogym-project/assets/150070786/92880a51-361e-4edd-8a01-0bad3fe33d9d)
-GO TO RESOURCE : ![Screenshot (359)](https://github.com/Saifali1703/Neogym-project/assets/150070786/72a9aeae-79b3-4306-bce1-0db0c45a67fd)
-NOW OPEN LANGUAGE FILE IN RESOURCE GROUP : ![Screenshot (360)](https://github.com/Saifali1703/Neogym-project/assets/150070786/d9dbe61f-adb1-4e62-af8d-adccb0dfcfd1)
-NOW GO TO LANGUAGE STUDIO AND SIGNIN WITH YOUR ACCOUNT :![Screenshot (336)](https://github.com/Saifali1703/Neogym-project/assets/150070786/0b87aba6-7e4f-419f-97c8-174b6013849b)
-![Screenshot (337)](https://github.com/Saifali1703/Neogym-project/assets/150070786/24bfa3df-b7b4-45f9-a81f-3a90904ef5ea)
-NOW CLICK ON CREATE NEW AND GOTO CUSTOM QUESTION AND ANSWERING : ![Screenshot (338)](https://github.com/Saifali1703/Neogym-project/assets/150070786/a9e8f43b-ab88-4209-9367-aceaac2807c9)
-NOW UPLOAD OUR FILE (I USED EXCEL FILES FOR QUESTION AND ANSWERS) :![Screenshot (339)](https://github.com/Saifali1703/Neogym-project/assets/150070786/0ff8c055-6d51-4f4d-8126-12512a734ced)
-CLICK ON CREATE BOT :![Screenshot (340)](https://github.com/Saifali1703/Neogym-project/assets/150070786/eb2bf3ff-b15f-406f-a199-fe2876292706)
-NOW GOTO CUSTOM DEPLOYMENT AND FILL IN ALL THE DETAILS : ![Screenshot (361)](https://github.com/Saifali1703/Neogym-project/assets/150070786/fa99451a-2610-4e51-bc22-b56686c80c97)
-NOW OPEN SETTINGS AND GOTO RESOURCES AND COPY RESOURCE KEY :![Screenshot (341)](https://github.com/Saifali1703/Neogym-project/assets/150070786/65cc32b7-6307-49a5-915a-e26c4d2a7221)
-NOW PASTE RESOURCE KEY AND CONTINUE TO DEPLOY :![Screenshot (362)](https://github.com/Saifali1703/Neogym-project/assets/150070786/d84fb959-0f58-483c-bb92-36d1ae9939aa)
-![Screenshot (363)](https://github.com/Saifali1703/Neogym-project/assets/150070786/2d618a03-33c0-437c-a079-f7751d421d88)
-NOW OPEN LANGUAGE BOT FILE :![Screenshot (342)](https://github.com/Saifali1703/Neogym-project/assets/150070786/1ac19e46-7d74-44a4-a3d4-6dbba3696361)
-NOW GO TO CHANNELS AND OPEN WEBCHAT AND COPY EMBEDDED CODE : ![Screenshot (343)](https://github.com/Saifali1703/Neogym-project/assets/150070786/c33e72c1-5050-45a6-8b41-481c1179ecae)
-![Screenshot (344)](https://github.com/Saifali1703/Neogym-project/assets/150070786/8b5f0f73-664b-4dd5-b845-ccecffc5a21d)
-NOW GOTO CONTAINERS AND OPEN OUR CHATBOT.HTML AND REPLACE EMBEDDED CODE AND SECRET KEY AND HIT SAVE  :
-![Screenshot (345)](https://github.com/Saifali1703/Neogym-project/assets/150070786/5e362fe8-2f36-4e4a-8e4b-c43e9f23819d)
-![Screenshot (347)](https://github.com/Saifali1703/Neogym-project/assets/150070786/d243c6b3-c38e-4443-a67f-1669092d21ae)
-NOW OPEN TEST IN WEBCHAT AND TEST OUR LIVE WEBCHAT RESPONSE : ![Screenshot (349)](https://github.com/Saifali1703/Neogym-project/assets/150070786/316bd5bd-dfb1-4d79-a493-5cade4df64e9)
-![Screenshot (350)](https://github.com/Saifali1703/Neogym-project/assets/150070786/2b128be8-ec66-4bf8-a757-1f6512c0ea36)
-NOW GOTO STATIC WEBSITE AND COPY URL AND PASTE IT IN NEW WEBTAB : ![Screenshot (364)](https://github.com/Saifali1703/Neogym-project/assets/150070786/3ce88a54-f7ed-4a2d-ad30-105614b43247)
-OUR WEBSITE IS RUNNING SUCCESSFULLY AND WE CAN SEE VARIOUS TABS :![Screenshot (351)](https://github.com/Saifali1703/Neogym-project/assets/150070786/801e5d57-c33b-4f42-b813-6faec7da10b8)
-![Screenshot (352)](https://github.com/Saifali1703/Neogym-project/assets/150070786/ca1eabe0-c16d-40d9-a2ff-aeedbb580161)
-![Screenshot (355)](https://github.com/Saifali1703/Neogym-project/assets/150070786/cc9803dc-1184-4094-91ed-c7097ae06ca3)
-NOW WE CAN USE CHATBOT IN OUR WEBSITE : ![Screenshot (356)](https://github.com/Saifali1703/Neogym-project/assets/150070786/1a90ae95-cf72-49d7-a1fe-f7c6258c4836)
+2.S.Saifali-Frontend development,Content Collection,Debugging
 
-<br>This is all about my project<br>
-<br>Thanking you<br>
+3. Ch Nikhitha-Azure AI Services
+
+## Project Details
+1. Project Demo URL : https://storage78900.z13.web.core.windows.net/
+2. Demo Video URL : https://youtu.be/WfRvxZbRnJs
+3. Github Repository URL : https://github.com/saifali7902/Ed-tech
+3. Industry : Ed-tech
+## Azure Services Used
+1.Azure Bolb storage
+
+2.Storage Account
+
+3.Azure Backup
+
+## Technologies Used
+1.HTML5
+
+2.CSS 3
+
+3.Bootstrap 5
+
+4.Azure portal
+
+## Problem Statement
+Edtech platforms leverage technology to overcome educational challenges, providing "accessible", "personalized learning experiences". They promote global collaboration, aid teacher professional development, offer scalability, generate data-driven insights, support lifelong learning, and enhance student engagement and motivation.
+
+## Project Decription
+An edtech platform is a digital learning environment designed to facilitate education through technology. It typically offers a variety of online courses, resources, and tools to enhance learning experiences. These platforms often incorporate interactive elements, assessments, and collaboration features to engage learners in a dynamic and accessible way. Certainly! A modern EdTech platform is a dynamic online educational environment that harnesses technological tools and resources to revolutionize learning.
+
+## Core Azure Services
+Azure Storage Account: Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
+
+## Azure Backup Service 
+
+Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
+
+## Azure AI Service
+## ScreenShots
+![eccommerce](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/63f49f45-81ef-4b03-a97e-3c8945d8a686)
+
+![1](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/c7b0f9c8-8edb-4cec-81b7-3dfda8b84ef9)
+
+
+## Azure Static Website
+Azure Static Website is a hosting service in Microsoft Azure designed for deploying and serving static web content. With features like global content delivery, automatic scaling, and seamless integration with Azure Storage, it provides a reliable and cost-effective solution for hosting HTML, CSS, and JavaScript-based websites with minimal configuration.
+
+![2](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/65862de0-3911-4afe-b7d8-e9cdd115e978)
+
+
+## Azure blob storage
+![3](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/a0ff84c7-f6e3-4a98-a7d4-38c01e1c158c)
+
+
+## Azure Backup Service
+Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+
+![22](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/9c2d1423-c3cd-42d8-a626-3f68faa344b5)
+
+
+## Welcome to Language Studio
+![4](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/ee138adf-d9e9-4210-a6c1-64fb221d7227)
+![5](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/c78e906b-a811-4b90-8e20-bb35a400ff34)
+![6](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/23d71433-63f1-4a99-9953-9c98d62e5460)
+![7](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/2012edad-55eb-4ef7-b6b5-d640ecea9a88) 
+![11](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/ffe2719f-8a18-400d-9439-5c69b5f47c26)
+![8](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/ec3b4873-b51e-4a8b-908b-60231de6167d)
+![10](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/db2a90c5-40dd-44cd-8d26-ba7628bd026e)
+
+
+## Working Live Project Display
+### Home Page
+![13](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/5d95987d-ed0b-4f3a-a553-546a8fc28a2d)
+
+
+## Men's Wear
+![14](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/5438fe04-4b31-42a7-b81e-ca44b747d7fe)
+![18](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/aefecb67-3525-4af7-98a8-91befea36eaf)
+
+
+## Azure ChatBot
+The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+
+![12](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/d0cc246d-5677-4c14-bcd3-86193c5442b2)
+![20](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/28478fb9-06ab-4918-ae81-fd901355077c)
+![17](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/037944c9-3116-48da-b20f-098700db19c9)
+![15](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/31c72442-7bf8-4562-9ebe-2fe5f8b4ce15)
+
+
+Discription Here I am attaching the final working website's screenshot for the reference
+
+## Resource Visualizer
+![Screenshot 2024-01-02 202815](https://github.com/ganesh22222222/Ecommercewebsite/assets/150002973/2248d86b-0202-46eb-96f0-7c40e0e1e815)
+
+
+## Final Project Statement
+The goal is to deliver a polished static website that not only serves as an online platform for the Ecommerce Website Online Shopping but also engages users with an aesthetically pleasing design and seamless navigation. The website should be informative, inspiring, and encourage users to explore various culinary skills through well-organized content.
